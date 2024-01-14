@@ -14,12 +14,12 @@ Follow these steps to set up the Laravel application after cloning it onto a new
 1. **Clone the Repository**:
    Use Git to clone the repository to your local system.
    ```
-   git clone [repository-url]
+   git clone https://github.com/Komestitches/FCP-CSC-18-1045..git
    ```
 
 2. **Navigate to Project Directory**:
    ```
-   cd [project-directory]
+   cd [project-directory]FCP-CSC-18-1045.
    ```
 
 3. **Install PHP Dependencies**:
